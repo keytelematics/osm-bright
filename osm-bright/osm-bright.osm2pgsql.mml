@@ -404,7 +404,7 @@
       "Datasource": {
         "dbname": "osm", 
         "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
-        "file": "/usr/local/share/maps/style/shp/ne_10m_populated_places_simple/ne_10m_populated_places_simple.shp", 
+        "file": "/usr/local/share/maps/style/shp/ne_10m_populated_places/ne_10m_populated_places_simple.shp", 
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
         "type": "shape"
       }, 
